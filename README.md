@@ -24,9 +24,9 @@ After taking this course, among others, students should be able to
 * ensure quality of the entire machine learning pipeline with test automation and other quality assurance techniques, including automated checks for data quality, data drift, feedback loops, and model quality
 * build systems that can be tested in production and build deployment pipelines that allow careful rollouts and canary testing
 * consider privacy, fairness, and security when building complex AI-enabled systems
-* communicate effectively in teams with both software engineers and data analysists
+* communicate effectively in teams with both software engineers and data analysts
 
-In addition, students will gain familiarity with production-quality infrastructure tools, including stream processing with Apache Kafka, distributed data storage with SQL and NoSQL databases, deployment with Docker and Kubernetis, and test automation with Travis and Jenkins.
+In addition, students will gain familiarity with production-quality infrastructure tools, including stream processing with Apache Kafka, distributed data storage with SQL and NoSQL databases, deployment with Docker and Kubernetes, and test automation with Travis and Jenkins.
 
 ## Design Rationale
 
@@ -50,7 +50,7 @@ Teaching assistant: [Chu-Pan Wong](https://www.cs.cmu.edu/~chupanw/)
 
 Office Hours:
 
-* Christian, Monday 11-11:50, Wean 5126
+* Christian, Monday 9:30-10:25, Wean 5126
 * Eunsuk, By appointment, Wean 5319
 * Chu-Pan, Wednesday 15:00-16:00, Wean 4103
 
@@ -119,4 +119,4 @@ If you or anyone you know experiences any academic stress, difficult life events
 * [17-640 IoT, Big Data, and ML](https://mse.isri.cmu.edu/Courses/17-640%20IoT%20Big%20Data%20ML.html): A hands-on class building an IoT system with a significant machine learning component. This course is more focused on embedded devices and IoT and focuses on a specific scenario where machine learning is used, whereas we survey software engineering challenges across AI-enabled systems more broadly.
 * [17-649 Artificial Intelligence for Software Engineering](https://mse.isri.cmu.edu/Courses/17-649-artificial-intelligence-for-software-engineering.html): This course focuses on how AI techniques can be used to build better software engineering tools and goes into more depth with regard to specific AI techniques, whereas we focus on how software engineering techniques can be used to build AI-enabled systems. Our application scenarios are typical web-based systems for end users, rather than tools for software developers.
 * [17-611 DevOps: Modern Deployment](https://mse.isri.cmu.edu/Courses/17-611-DevOps-Modern-Deployment.html), [17-648 Engineering Data Intensive Scalable Systems](https://mse.isri.cmu.edu/Courses/17-648-Engineering-Data-Intensive-Scalable-Systems.html), and similar: These course cover techniques to build scalable, reactive, and reliable systems in depth. We will survey DevOps and big data systems (e.g., batch processing, stream processing), but will not explore them in as much detail as a dedicated course can.
-* [10-601 Machine Learning](https://www.cmu.edu/mits/curriculum/core/10-601.html), [15-381 Artificial Intelligence: Representation and Problem Solving](https://www.cs.cmu.edu/~15381-f17/), [05-834  Applied Machine Learning](https://www.cmu.edu/mits/curriculum/core/05-834.html), [95-865 Unstructured Data Analytics](https://www.andrew.cmu.edu/user/georgech/95-865/), and many others: CMU offers many course that teach how machine learning and artificial intelligence techniques work internally and how to apply them to specific problems (including feature engineering and model evaluation), often on static data sets. We assume a basic understanding of such techniques and processes (see prerequisites), but focus on the engineering process for production online systems.
+* [10-601 Machine Learning](https://www.cmu.edu/mits/curriculum/core/10-601.html), [15-381 Artificial Intelligence: Representation and Problem Solving](https://www.cs.cmu.edu/~15381-f17/), [05-834  Applied Machine Learning](https://www.cmu.edu/mits/curriculum/core/05-834.html), [95-865 Unstructured Data Analytics](https://www.andrew.cmu.edu/user/georgech/95-865/), and many others: CMU offers many course that teach how machine learning and artificial intelligence techniques work internally and how to apply them to specific problems (including feature engineering and model evaluation), often on static data sets. We assume a basic understanding of such techniques and processes (see prerequisites) but focus on the engineering process for production online systems.
